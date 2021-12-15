@@ -183,7 +183,7 @@ blockquote p {
 	width:100%;
 	padding-bottom:50px;
 	margin-bottom:50px;
-	border-bottom:1px solid rgba(255,255,255,0.41);
+	border-bottom:0px solid rgba(255,255,255,0.41);
 	color:#fff;
 	font-size: 46px;
 	letter-spacing:-2px;
